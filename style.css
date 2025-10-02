@@ -1,4 +1,10 @@
 h1{
-    color: aqua;
+    color: red;
     text-align: center;
+    text-size-adjust: 60px;
+}
+h2{
+    color: blue;
+    text-align: center;
+    text-size-adjust: 60px;
 }
