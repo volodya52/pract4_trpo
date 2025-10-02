@@ -13,3 +13,7 @@ git branch -d %имя-ветки% - удалить ветку
 git remote add origin <url> - связка удаленного репозитория с локальным
 git push - отправка данных в удаленный репозиторий
 git branch -r - список веток из удаленного репозитория
+git congig user.name "Your Name" - указание имени (только для текущего репозитория)
+git congig user.email "Your@email.ru" - указание эл.почты (только для текущего репозитория)
+git config --global user.name "Your Name" - указание имени (для всех репозиториев на текущем компьютере)
+git congig --global user.email "Your@email.ru" - указание эл.почты (для всех репозиториев на текущем компьютере)
